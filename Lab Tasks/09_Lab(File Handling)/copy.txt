@@ -1,0 +1,5 @@
+This is first line.
+Welcome to file handling.
+C++ makes file handling easy.
+Name: Ali
+Roll No: 23-SE-101
