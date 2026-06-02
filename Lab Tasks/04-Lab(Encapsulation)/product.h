@@ -15,7 +15,7 @@ public:
 
     void setName(string n)
     {
-        if(!n.empty())
+        if(name!="")
             name = n;
         else
             cout << "Invalid name" << endl;
